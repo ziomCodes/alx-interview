@@ -1,0 +1,1 @@
+This is task for the nqueens interview project.
