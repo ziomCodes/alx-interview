@@ -1,1 +1,0 @@
-This are tasks for the alx interview making change project.
