@@ -1,1 +1,0 @@
-This is task for the primegame interview project.
